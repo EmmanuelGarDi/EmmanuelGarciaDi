@@ -1,9 +1,8 @@
-<!-- 🌟 README de Portafolio - Desarrollador Front End 🌟 -->
-
-<h1 align="center">⚡ ¡Hola, soy <span style="color:#00FFC6;">Desarrollador Front End</span>! 👋</h1>
+<h1 align="center">👨🏻‍💻 ¡HOLA!, Soy Emmanuel Garcia <br>
+  <span style="color:#00FFC6;">Desarrollador Front End</span>! 👋</h1>
 
 <p align="center">
-  💻 Especialista en <strong>Shopify</strong> y <strong>VTEX</strong> | 🚀 Apasionado por el código limpio y el diseño moderno <br>
+  💻 Developer en <strong>Shopify</strong> y <strong>VTEX</strong> | 🚀 Apasionado por el código limpio y el diseño moderno <br>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70"/>
 </p>
 
@@ -16,14 +15,15 @@ Me encanta transformar ideas en interfaces fluidas, intuitivas y escalables.
 
 🔹 Apasionado por la programación y la optimización de experiencias de usuario.  
 🔹 Familiarizado con la integración y consumo de **APIs REST**.  
-🔹 Actualmente aprendiendo lo esencial de **AWS** para ampliar mi stack.  
+🔹 Actualmente aprendiendo  cuestiones basicas de lo esencial de **AWS** para ampliar mi stack.  
+🔹 Apacionado en **Shopify**.
 
 ---
 
 ### ⚙️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,shopify,vtex,tailwind,git,github,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,shopify,vtex,git,github,aws,vscode" />
 </p>
 
 ---
@@ -32,9 +32,9 @@ Me encanta transformar ideas en interfaces fluidas, intuitivas y escalables.
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [**Ecommerce VTEX**](https://github.com/tuusuario/ecommerce-vtex) | Plataforma optimizada para retail, con integración a APIs y diseño modular. | VTEX IO, React, TypeScript |
-| [**Tienda Shopify Avanzada**](https://github.com/tuusuario/shopify-store) | Tienda personalizada con Liquid, consumo de APIs y theme a medida. | Shopify, Liquid, JS |
-| [**Frontend Dashboard**](https://github.com/tuusuario/frontend-dashboard) | Panel de control moderno con consumo dinámico de APIs. | React, TailwindCSS, Axios |
+| [**Ecommerce VTEX**](https://www.doto.com.mx/) | Experiencia en la plataforma optimizada para , con integración a APIs y diseño modular. | VTEX IO, React, JSONC |
+| [**Tienda Shopify Avanzada**](https://github.com/EmmanuelGarDi/Proyectos-de-trabajo-en-shopify.git) | Tienda personalizada con Liquid, consumo de APIs y theme a medida. | Shopify, Liquid, JS |
+| [**Frontend Dashboard**] | Panel de control moderno con consumo dinámico de APIs. | React |
 
 ---
 
@@ -45,21 +45,16 @@ Me encanta transformar ideas en interfaces fluidas, intuitivas y escalables.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight" alt="https://github.com/EmmanuelGarDi/Proyectos-de-trabajo-en-shopify.git"/>
 </p>
-
----
 
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="www.linkedin.com/in/emmanuel-garcia-diaz-609a50210">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/-Portafolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:emmanuel.garciadi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -71,6 +66,8 @@ Me encanta transformar ideas en interfaces fluidas, intuitivas y escalables.
 💡 *"El mejor código es aquel que se siente invisible para el usuario."*  
 🌱 En constante aprendizaje — **nunca dejo de experimentar.**  
 🔥 Siempre buscando nuevos desafíos que me impulsen a mejorar.
+🦾 Siempre la carta de representacion es demostrar con hechos y no con palabras 
+😄 Dependiente de la lealtad y del respeto 
 
 ---
 
@@ -80,4 +77,4 @@ Me encanta transformar ideas en interfaces fluidas, intuitivas y escalables.
 
 ---
 
-⭐️ *Hecho con pasión por un Desarrollador Front End que ama el eCommerce y el código limpio.*
+👨🏻‍💻 Hecho con pasión por un Desarrollador Front End que ama el eCommerce y el código limpio.🦾
